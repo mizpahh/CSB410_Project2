@@ -13,6 +13,7 @@ We experiment with:
 ## 📁 Repository Structure
 
 project/
+
 │
 ├── notebook.ipynb # Main project notebook
 ├── README.md # This file
