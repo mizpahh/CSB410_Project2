@@ -10,18 +10,18 @@ We experiment with:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 project/
 
-│
-├── notebook.ipynb # Main project notebook
-├── README.md # This file
-├── requirements.yml # Conda environment dependencies
-│
-└── data/
-├── sign_mnist_train.csv # Training dataset
-└── sign_mnist_test.csv # Testing dataset
+    │
+    ├── notebook.ipynb # Main project notebook
+    ├── README.md # This file
+    ├── requirements.yml # Conda environment dependencies
+    │
+    └── data/
+    ├── sign_mnist_train.csv # Training dataset
+    └── sign_mnist_test.csv # Testing dataset
 
 
 All dataset files should be placed in the **data/** folder. The notebook uses these files directly.
