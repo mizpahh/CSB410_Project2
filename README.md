@@ -23,7 +23,7 @@ project/
 └── sign_mnist_test.csv # Testing dataset
 
 
-> All dataset files should be placed in the **data/** folder. The notebook uses these files directly.
+All dataset files should be placed in the **data/** folder. The notebook uses these files directly.
 
 ---
 
@@ -122,13 +122,6 @@ scikit-learn
 
 Jupyter
 
-🔐 Privacy
-
-This repository should remain private for the course. Share only with:
-
-Professor
-
-TAs
 
 -> Acknowledgements
 
